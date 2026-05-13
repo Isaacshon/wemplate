@@ -115,15 +115,18 @@ function GalleryCard({
               <TemplatePreview template={template} size="market" />
             </motion.div>
 
-            <div className="pointer-events-none absolute inset-x-0 bottom-0 translate-y-2 bg-gradient-to-t from-black/86 via-black/38 to-transparent px-3 pb-3 pt-12 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
-              <p className="font-display text-base font-semibold leading-tight text-white">
+            <div className="pointer-events-none absolute inset-x-3 bottom-3 z-20 flex items-end justify-between gap-3 mix-blend-difference">
+              <p className="max-w-[12rem] font-sans text-[clamp(1.05rem,1.28vw,1.45rem)] font-bold leading-[0.96] tracking-[-0.024em] text-white">
                 {template.name}
               </p>
-              <p className="mt-1 flex items-center justify-between gap-3 text-[0.64rem] font-semibold uppercase tracking-[0.08em] text-white/72">
-                <span>{template.industry}</span>
-                <span className="font-display text-sm tracking-normal text-white">
-                  {formatPrice(template.priceUsd, "usd")}
-                </span>
+              <span className="shrink-0 font-sans text-[clamp(1.05rem,1.18vw,1.35rem)] font-bold leading-none tracking-[-0.024em] text-white">
+                {formatPrice(template.priceUsd, "usd")}
+              </span>
+            </div>
+
+            <div className="pointer-events-none absolute inset-x-0 bottom-0 z-10 translate-y-2 bg-gradient-to-t from-black/68 via-black/18 to-transparent px-3 pb-3 pt-16 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
+              <p className="pr-16 text-[0.64rem] font-semibold uppercase tracking-[0.08em] text-white/78">
+                {template.industry}
               </p>
             </div>
           </div>
