@@ -1,3 +1,5 @@
+import { generatedTemplates } from "./generated-templates";
+
 export type Currency = "usd" | "cad";
 
 export type PreviewStyle =
@@ -45,7 +47,7 @@ export type TemplateItem = {
   stats: string;
 };
 
-export const templates: TemplateItem[] = [
+const baseTemplates: TemplateItem[] = [
   {
     id: "botanical-clinic",
     name: "Botanical Clinic",
@@ -221,6 +223,8 @@ export const templates: TemplateItem[] = [
     stats: "Gallery motion system",
   },
 ];
+
+export const templates: TemplateItem[] = [...generatedTemplates, ...baseTemplates];
 
 export function getTemplateById(id: string) {
   return templates.find((item) => item.id === id) ?? null;
