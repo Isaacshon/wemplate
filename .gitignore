@@ -9,6 +9,8 @@
 # testing
 /coverage
 /.wemplate-output
+/.playwright-mcp
+/*.png
 
 # next.js
 /.next/
