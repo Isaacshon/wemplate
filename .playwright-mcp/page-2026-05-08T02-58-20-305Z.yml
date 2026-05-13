@@ -1,0 +1,328 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Primary navigation" [ref=e4]:
+      - link "Wemplate" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - img [ref=e7]
+        - text: Wemplate
+      - generic [ref=e10]:
+        - link "Best sellers" [ref=e11] [cursor=pointer]:
+          - /url: "#best-sellers"
+        - link "Features" [ref=e12] [cursor=pointer]:
+          - /url: "#features"
+        - link "Pricing" [ref=e13] [cursor=pointer]:
+          - /url: "#pricing"
+        - link "FAQ" [ref=e14] [cursor=pointer]:
+          - /url: "#faq"
+      - link "Buy a drop" [ref=e15] [cursor=pointer]:
+        - /url: "#pricing"
+      - link "Jump to best sellers" [ref=e16] [cursor=pointer]:
+        - /url: "#best-sellers"
+        - img [ref=e17]
+  - main [ref=e18]:
+    - generic [ref=e19]:
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - img [ref=e22]
+          - text: 10 random niches every day
+        - generic [ref=e25]:
+          - heading "Websites generated for the next niche before everyone else finds it." [level=1] [ref=e26]
+          - paragraph [ref=e27]: Wemplate turns motion references, emerging industries, and conversion patterns into ready-to-sell website templates.
+        - generic [ref=e28]:
+          - link "Browse best sellers" [ref=e29] [cursor=pointer]:
+            - /url: "#best-sellers"
+            - text: Browse best sellers
+            - img [ref=e30]
+          - link "Get tomorrow's drops" [ref=e32] [cursor=pointer]:
+            - /url: mailto:drops@wemplate.co?subject=Tomorrow%27s%20Wemplate%20drops
+        - generic [ref=e33]:
+          - generic [ref=e34]:
+            - generic [ref=e35]: 284+
+            - generic [ref=e36]: motion refs
+          - generic [ref=e37]:
+            - generic [ref=e38]: "6"
+            - generic [ref=e39]: best sellers
+          - generic [ref=e40]:
+            - generic [ref=e41]: 24h
+            - generic [ref=e42]: email delivery
+      - generic [ref=e43]:
+        - generic [ref=e44]:
+          - generic [ref=e45]:
+            - paragraph [ref=e46]: Best sellers
+            - heading "Ready to resell today" [level=2] [ref=e47]
+          - generic [ref=e48]:
+            - img [ref=e49]
+            - text: USD / CAD
+        - generic [ref=e53]:
+          - article [ref=e54]:
+            - generic [ref=e56]: "01"
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - generic [ref=e59]: Wellness
+                - heading "Botanical Clinic" [level=3] [ref=e60]
+                - paragraph [ref=e61]: Clinical skincare studio with quiet luxury motion
+              - generic [ref=e62]:
+                - generic [ref=e63]:
+                  - generic [ref=e64]: 4.9 conversion score
+                  - generic [ref=e65]: $79 / CA$109
+                - generic [ref=e66]:
+                  - button "USD" [ref=e68]:
+                    - text: USD
+                    - img [ref=e69]
+                  - button "CAD" [ref=e72]:
+                    - text: CAD
+                    - img [ref=e73]
+          - article [ref=e75]:
+            - generic [ref=e77]: "02"
+            - generic [ref=e78]:
+              - generic [ref=e79]:
+                - generic [ref=e80]: B2B SaaS
+                - heading "Founder Room" [level=3] [ref=e81]
+                - paragraph [ref=e82]: Investor-ready landing page for AI operations tools
+              - generic [ref=e83]:
+                - generic [ref=e84]:
+                  - generic [ref=e85]: 16 sections included
+                  - generic [ref=e86]: $89 / CA$119
+                - generic [ref=e87]:
+                  - button "USD" [ref=e89]:
+                    - text: USD
+                    - img [ref=e90]
+                  - button "CAD" [ref=e93]:
+                    - text: CAD
+                    - img [ref=e94]
+          - article [ref=e96]:
+            - generic [ref=e98]: "03"
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - generic [ref=e101]: Local service
+                - heading "Afterhours Barber" [level=3] [ref=e102]
+                - paragraph [ref=e103]: Editorial booking site for premium grooming studios
+              - generic [ref=e104]:
+                - generic [ref=e105]:
+                  - generic [ref=e106]: Mobile-first booking CTA
+                  - generic [ref=e107]: $59 / CA$79
+                - generic [ref=e108]:
+                  - button "USD" [ref=e110]:
+                    - text: USD
+                    - img [ref=e111]
+                  - button "CAD" [ref=e114]:
+                    - text: CAD
+                    - img [ref=e115]
+          - article [ref=e117]:
+            - generic [ref=e119]: "04"
+            - generic [ref=e120]:
+              - generic [ref=e121]:
+                - generic [ref=e122]: Commerce
+                - heading "Ceramic Market" [level=3] [ref=e123]
+                - paragraph [ref=e124]: High-touch product drop page for handmade goods
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - generic [ref=e127]: Drop-ready catalog
+                  - generic [ref=e128]: $69 / CA$95
+                - generic [ref=e129]:
+                  - button "USD" [ref=e131]:
+                    - text: USD
+                    - img [ref=e132]
+                  - button "CAD" [ref=e135]:
+                    - text: CAD
+                    - img [ref=e136]
+          - article [ref=e138]:
+            - generic [ref=e140]: "05"
+            - generic [ref=e141]:
+              - generic [ref=e142]:
+                - generic [ref=e143]: Healthcare
+                - heading "Neon Dental" [level=3] [ref=e144]
+                - paragraph [ref=e145]: Unexpected dental landing page with confident motion
+              - generic [ref=e146]:
+                - generic [ref=e147]:
+                  - generic [ref=e148]: HIPAA-light copy blocks
+                  - generic [ref=e149]: $79 / CA$109
+                - generic [ref=e150]:
+                  - button "USD" [ref=e152]:
+                    - text: USD
+                    - img [ref=e153]
+                  - button "CAD" [ref=e156]:
+                    - text: CAD
+                    - img [ref=e157]
+          - article [ref=e159]:
+            - generic [ref=e161]: "06"
+            - generic [ref=e162]:
+              - generic [ref=e163]:
+                - generic [ref=e164]: Hospitality
+                - heading "Micro Hotel" [level=3] [ref=e165]
+                - paragraph [ref=e166]: Boutique stay page with cinematic room reveals
+              - generic [ref=e167]:
+                - generic [ref=e168]:
+                  - generic [ref=e169]: Gallery motion system
+                  - generic [ref=e170]: $99 / CA$135
+                - generic [ref=e171]:
+                  - button "USD" [ref=e173]:
+                    - text: USD
+                    - img [ref=e174]
+                  - button "CAD" [ref=e177]:
+                    - text: CAD
+                    - img [ref=e178]
+    - generic [ref=e180]:
+      - generic [ref=e181]:
+        - paragraph [ref=e182]: Built for operators
+        - heading "A template marketplace that can keep up with daily creative output." [level=2] [ref=e183]
+      - generic [ref=e184]:
+        - article [ref=e185]:
+          - img [ref=e187]
+          - heading "Random niche intelligence" [level=3] [ref=e194]
+          - paragraph [ref=e195]: Each drop starts with a fresh industry, offer angle, and visual concept so your catalog does not collapse into sameness.
+        - article [ref=e196]:
+          - img [ref=e198]
+          - heading "Section systems from proven blocks" [level=3] [ref=e201]
+          - paragraph [ref=e202]: Hero, feature, social proof, and pricing patterns are shaped from React and Tailwind component conventions inspired by 21st.dev.
+        - article [ref=e203]:
+          - img [ref=e205]
+          - heading "Buyer-ready source" [level=3] [ref=e210]
+          - paragraph [ref=e211]: Templates ship with Next.js structure, Tailwind tokens, Framer Motion notes, and copy that can be resold or customized quickly.
+    - generic [ref=e213]:
+      - generic [ref=e214]:
+        - img [ref=e216]
+        - paragraph [ref=e219]: Social proof
+        - heading "Designed for people who need more sellable ideas than hours." [level=2] [ref=e220]
+      - generic [ref=e221]:
+        - figure "Template reseller 3 new listings in one evening" [ref=e222]:
+          - img [ref=e223]
+          - blockquote [ref=e226]: The value is speed. I can test a niche, list the template, and know by tomorrow if buyers care.
+          - generic [ref=e227]:
+            - generic [ref=e228]: Template reseller
+            - generic [ref=e229]: 3 new listings in one evening
+        - figure "No-code studio owner 41% faster proposal mockups" [ref=e230]:
+          - img [ref=e231]
+          - blockquote [ref=e234]: The concepts feel specific enough to sell. Not generic SaaS blocks pretending to fit every customer.
+          - generic [ref=e235]:
+            - generic [ref=e236]: No-code studio owner
+            - generic [ref=e237]: 41% faster proposal mockups
+        - figure "Freelance web designer 2x higher starter package" [ref=e238]:
+          - img [ref=e239]
+          - blockquote [ref=e242]: The motion notes are the difference. Clients see a premium site before any custom work begins.
+          - generic [ref=e243]:
+            - generic [ref=e244]: Freelance web designer
+            - generic [ref=e245]: 2x higher starter package
+    - generic [ref=e246]:
+      - generic [ref=e247]:
+        - generic [ref=e248]:
+          - paragraph [ref=e249]: Pricing
+          - heading "Buy a template, a bundle, or the whole daily drop engine." [level=2] [ref=e250]
+        - paragraph [ref=e251]: Checkout runs through Stripe. Google Pay, Apple Pay, and Link appear when Stripe supports the buyer's device, browser, and currency.
+      - generic [ref=e252]:
+        - article [ref=e253]:
+          - generic [ref=e254]:
+            - generic [ref=e255]:
+              - paragraph [ref=e256]: Start tonight
+              - heading "Single Template" [level=3] [ref=e257]
+            - generic [ref=e258]: "01"
+          - paragraph [ref=e259]: One polished website template with copy, responsive sections, and motion notes.
+          - generic [ref=e260]:
+            - generic [ref=e261]: $79
+            - generic [ref=e262]: CA$109 CAD also available
+          - list [ref=e263]:
+            - listitem [ref=e264]:
+              - img [ref=e265]
+              - text: One niche concept
+            - listitem [ref=e267]:
+              - img [ref=e268]
+              - text: Next.js + Tailwind source
+            - listitem [ref=e270]:
+              - img [ref=e271]
+              - text: Email delivery within 24 hours
+          - generic [ref=e273]:
+            - button "Checkout in USD" [ref=e275]:
+              - text: Checkout in USD
+              - img [ref=e276]
+            - button "Checkout in CAD" [ref=e279]:
+              - text: Checkout in CAD
+              - img [ref=e280]
+        - article [ref=e282]:
+          - generic [ref=e283]:
+            - generic [ref=e284]:
+              - paragraph [ref=e285]: Best value
+              - heading "Niche Bundle" [level=3] [ref=e286]
+            - generic [ref=e287]: "02"
+          - paragraph [ref=e288]: Three coordinated templates for testing related industries and offers.
+          - generic [ref=e289]:
+            - generic [ref=e290]: $199
+            - generic [ref=e291]: CA$269 CAD also available
+          - list [ref=e292]:
+            - listitem [ref=e293]:
+              - img [ref=e294]
+              - text: Three templates
+            - listitem [ref=e296]:
+              - img [ref=e297]
+              - text: Shared design token system
+            - listitem [ref=e299]:
+              - img [ref=e300]
+              - text: Priority email delivery
+          - generic [ref=e302]:
+            - button "Checkout in USD" [ref=e304]:
+              - text: Checkout in USD
+              - img [ref=e305]
+            - button "Checkout in CAD" [ref=e308]:
+              - text: Checkout in CAD
+              - img [ref=e309]
+        - article [ref=e311]:
+          - generic [ref=e312]:
+            - generic [ref=e313]:
+              - paragraph [ref=e314]: Operator mode
+              - heading "Daily Drop Club" [level=3] [ref=e315]
+            - generic [ref=e316]: "03"
+          - paragraph [ref=e317]: A monthly pack of daily drop concepts selected for fast resale experiments.
+          - generic [ref=e318]:
+            - generic [ref=e319]: $499
+            - generic [ref=e320]: CA$679 CAD also available
+          - list [ref=e321]:
+            - listitem [ref=e322]:
+              - img [ref=e323]
+              - text: 10 fresh concepts per day
+            - listitem [ref=e325]:
+              - img [ref=e326]
+              - text: Motion reference notes
+            - listitem [ref=e328]:
+              - img [ref=e329]
+              - text: Private request queue
+          - generic [ref=e331]:
+            - button "Checkout in USD" [ref=e333]:
+              - text: Checkout in USD
+              - img [ref=e334]
+            - button "Checkout in CAD" [ref=e337]:
+              - text: Checkout in CAD
+              - img [ref=e338]
+    - generic [ref=e340]:
+      - generic [ref=e341]:
+        - paragraph [ref=e342]: FAQ
+        - heading "Straight answers before checkout." [level=2] [ref=e343]
+      - generic [ref=e344]:
+        - group [ref=e345]:
+          - generic "How do I receive the template?+" [ref=e346]
+        - group [ref=e347]:
+          - generic "Can I resell a template to a client?+" [ref=e348]
+        - group [ref=e349]:
+          - generic "Does Google Pay work?+" [ref=e350]
+        - group [ref=e351]:
+          - generic "What happens to the daily random website generator?+" [ref=e352]
+  - contentinfo [ref=e353]:
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - generic [ref=e356]:
+          - generic [ref=e357]:
+            - img [ref=e359]
+            - text: Wemplate
+          - paragraph [ref=e362]: Premium daily website templates for resellers, studios, and fast-moving operators.
+        - generic [ref=e363]:
+          - link "Best sellers" [ref=e364] [cursor=pointer]:
+            - /url: "#best-sellers"
+            - text: Best sellers
+            - img [ref=e365]
+          - link "Pricing" [ref=e368] [cursor=pointer]:
+            - /url: "#pricing"
+            - text: Pricing
+            - img [ref=e369]
+          - link "FAQ" [ref=e372] [cursor=pointer]:
+            - /url: "#faq"
+            - text: FAQ
+            - img [ref=e373]
+      - generic [ref=e376]: (c) 2026 Wemplate. Built for daily drops.

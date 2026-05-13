@@ -1,0 +1,332 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Primary navigation" [ref=e4]:
+      - link "Wemplate (R)" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - text: Wemplate
+        - generic [ref=e6]: (R)
+      - generic [ref=e7]:
+        - button "$59" [ref=e8] [cursor=pointer]
+        - button "$49" [ref=e9] [cursor=pointer]
+        - button "$29" [ref=e10] [cursor=pointer]
+        - link "FAQ" [ref=e11] [cursor=pointer]:
+          - /url: "#faq"
+      - link "Contact" [ref=e12] [cursor=pointer]:
+        - /url: mailto:drops@wemplate.co
+  - main [ref=e13]:
+    - generic [ref=e15]:
+      - generic:
+        - heading "Wemplate" [level=1]
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - article [ref=e18]:
+            - link "Open Botanical Clinic preview editor" [ref=e20] [cursor=pointer]:
+              - /url: /templates/botanical-clinic
+              - article "Botanical Clinic website preview" [ref=e23]:
+                - generic [ref=e25]:
+                  - generic [ref=e29]: Botanical Clinic
+                  - generic [ref=e31]:
+                    - generic [ref=e32]:
+                      - generic [ref=e33]: botanical, soft clinical, editorial
+                      - heading "Clinical skincare with a softer edge" [level=2] [ref=e34]
+                      - paragraph [ref=e35]: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+                    - generic [ref=e36]:
+                      - generic [ref=e37]: Book a consult
+                      - generic [ref=e38]: Used for treatment menus, booking pages, and practitioner profiles.
+                  - generic [ref=e46]:
+                    - generic [ref=e47]: Treatments
+                    - generic [ref=e48]: Results
+                    - generic [ref=e49]: Booking
+              - generic [ref=e50]:
+                - generic [ref=e51]:
+                  - paragraph [ref=e52]: Botanical Clinic
+                  - paragraph [ref=e53]: Wellness / botanical, soft clinical, editorial
+                - generic [ref=e54]:
+                  - text: $59
+                  - img [ref=e55]
+          - article [ref=e58]:
+            - link "Open Neon Dental preview editor" [ref=e60] [cursor=pointer]:
+              - /url: /templates/neon-dental
+              - article "Neon Dental website preview" [ref=e63]:
+                - generic [ref=e65]:
+                  - generic [ref=e69]: Neon Dental
+                  - generic [ref=e71]:
+                    - generic [ref=e72]:
+                      - generic [ref=e73]: clean, bright, trust-forward
+                      - heading "A brighter clinic visit, from the first click" [level=2] [ref=e74]
+                      - paragraph [ref=e75]: Designed for dental groups, orthodontists, urgent clinics, and health practices that need clarity with a little visual edge.
+                    - generic [ref=e76]:
+                      - generic [ref=e77]: Start intake
+                      - generic [ref=e78]: Includes insurance cues, care pathways, location panel, and patient-ready copy.
+                  - generic [ref=e86]:
+                    - generic [ref=e87]: Care
+                    - generic [ref=e88]: Insurance
+                    - generic [ref=e89]: Visit
+              - generic [ref=e90]:
+                - generic [ref=e91]:
+                  - paragraph [ref=e92]: Neon Dental
+                  - paragraph [ref=e93]: Healthcare / clean, bright, trust-forward
+                - generic [ref=e94]:
+                  - text: $49
+                  - img [ref=e95]
+          - article [ref=e98]:
+            - link "Open Afterhours Barber preview editor" [ref=e100] [cursor=pointer]:
+              - /url: /templates/afterhours-barber
+              - article "Afterhours Barber website preview" [ref=e103]:
+                - generic [ref=e105]:
+                  - generic [ref=e109]: Afterhours Barber
+                  - generic [ref=e111]:
+                    - generic [ref=e112]:
+                      - generic [ref=e113]: moody, tactile, appointment-first
+                      - heading "Cuts after dark, booked before noon" [level=2] [ref=e114]
+                      - paragraph [ref=e115]: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                    - generic [ref=e116]:
+                      - generic [ref=e117]: Reserve a chair
+                      - generic [ref=e118]: Optimized for menus, hours, location, and high-intent booking.
+                  - generic [ref=e126]:
+                    - generic [ref=e127]: Services
+                    - generic [ref=e128]: Artists
+                    - generic [ref=e129]: Reserve
+              - generic [ref=e130]:
+                - generic [ref=e131]:
+                  - paragraph [ref=e132]: Afterhours Barber
+                  - paragraph [ref=e133]: Local service / moody, tactile, appointment-first
+                - generic [ref=e134]:
+                  - text: $29
+                  - img [ref=e135]
+        - generic [ref=e138]:
+          - article [ref=e139]:
+            - link "Open Founder Room preview editor" [ref=e141] [cursor=pointer]:
+              - /url: /templates/founder-room
+              - article "Founder Room website preview" [ref=e144]:
+                - generic [ref=e146]:
+                  - generic [ref=e150]: Founder Room
+                  - generic [ref=e151]:
+                    - generic [ref=e152]:
+                      - generic [ref=e153]:
+                        - generic [ref=e154]: precise, technical, investor-ready
+                        - heading "Run the room before the demo starts" [level=2] [ref=e155]
+                        - paragraph [ref=e156]: Built for AI operations, internal tools, analytics products, and early teams selling a technical promise with polish.
+                      - generic [ref=e157]:
+                        - generic [ref=e158]: See product tour
+                        - generic [ref=e159]: Includes dashboard hero, metric strip, feature proof, and investor-ready copy blocks.
+                    - generic [ref=e162]:
+                      - generic [ref=e164]: "84"
+                      - generic [ref=e165]: signals
+                  - generic [ref=e176]:
+                    - generic [ref=e177]: Signal
+                    - generic [ref=e178]: Workflow
+                    - generic [ref=e179]: Demo
+              - generic [ref=e180]:
+                - generic [ref=e181]:
+                  - paragraph [ref=e182]: Founder Room
+                  - paragraph [ref=e183]: B2B SaaS / precise, technical, investor-ready
+                - generic [ref=e184]:
+                  - text: $49
+                  - img [ref=e185]
+          - article [ref=e188]:
+            - link "Open Micro Hotel preview editor" [ref=e190] [cursor=pointer]:
+              - /url: /templates/micro-hotel
+              - article "Micro Hotel website preview" [ref=e193]:
+                - generic [ref=e195]:
+                  - generic [ref=e199]: Micro Hotel
+                  - generic [ref=e201]:
+                    - generic [ref=e202]:
+                      - generic [ref=e203]: cinematic, intimate, editorial travel
+                      - heading "A small hotel with a long memory" [level=2] [ref=e204]
+                      - paragraph [ref=e205]: For boutique stays, cabins, guest houses, and micro-hotels that sell mood, location, and a clear path to booking.
+                    - generic [ref=e206]:
+                      - generic [ref=e207]: Check dates
+                      - generic [ref=e208]: Includes room gallery, amenities, neighborhood notes, and booking CTA.
+                  - generic [ref=e214]:
+                    - generic [ref=e215]: Rooms
+                    - generic [ref=e216]: Neighborhood
+                    - generic [ref=e217]: Dates
+              - generic [ref=e218]:
+                - generic [ref=e219]:
+                  - paragraph [ref=e220]: Micro Hotel
+                  - paragraph [ref=e221]: Hospitality / cinematic, intimate, editorial travel
+                - generic [ref=e222]:
+                  - text: $29
+                  - img [ref=e223]
+          - article [ref=e226]:
+            - link "Open Ceramic Market preview editor" [ref=e228] [cursor=pointer]:
+              - /url: /templates/ceramic-market
+              - article "Ceramic Market website preview" [ref=e231]:
+                - generic [ref=e233]:
+                  - generic [ref=e237]: Ceramic Market
+                  - generic [ref=e239]:
+                    - generic [ref=e240]:
+                      - generic [ref=e241]: crafted, gallery retail, tactile
+                      - heading "Small batch objects with a gallery pace" [level=2] [ref=e242]
+                      - paragraph [ref=e243]: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                    - generic [ref=e244]:
+                      - generic [ref=e245]: View the drop
+                      - generic [ref=e246]: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                  - generic [ref=e256]:
+                    - generic [ref=e257]: Drop
+                    - generic [ref=e258]: Materials
+                    - generic [ref=e259]: Cart
+              - generic [ref=e260]:
+                - generic [ref=e261]:
+                  - paragraph [ref=e262]: Ceramic Market
+                  - paragraph [ref=e263]: Commerce / crafted, gallery retail, tactile
+                - generic [ref=e264]:
+                  - text: $59
+                  - img [ref=e265]
+        - generic [ref=e268]:
+          - article [ref=e269]:
+            - link "Open Afterhours Barber preview editor" [ref=e271] [cursor=pointer]:
+              - /url: /templates/afterhours-barber
+              - article "Afterhours Barber website preview" [ref=e274]:
+                - generic [ref=e276]:
+                  - generic [ref=e280]: Afterhours Barber
+                  - generic [ref=e282]:
+                    - generic [ref=e283]:
+                      - generic [ref=e284]: moody, tactile, appointment-first
+                      - heading "Cuts after dark, booked before noon" [level=2] [ref=e285]
+                      - paragraph [ref=e286]: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                    - generic [ref=e287]:
+                      - generic [ref=e288]: Reserve a chair
+                      - generic [ref=e289]: Optimized for menus, hours, location, and high-intent booking.
+                  - generic [ref=e297]:
+                    - generic [ref=e298]: Services
+                    - generic [ref=e299]: Artists
+                    - generic [ref=e300]: Reserve
+              - generic [ref=e301]:
+                - generic [ref=e302]:
+                  - paragraph [ref=e303]: Afterhours Barber
+                  - paragraph [ref=e304]: Local service / moody, tactile, appointment-first
+                - generic [ref=e305]:
+                  - text: $29
+                  - img [ref=e306]
+          - article [ref=e309]:
+            - link "Open Botanical Clinic preview editor" [ref=e311] [cursor=pointer]:
+              - /url: /templates/botanical-clinic
+              - article "Botanical Clinic website preview" [ref=e314]:
+                - generic [ref=e316]:
+                  - generic [ref=e320]: Botanical Clinic
+                  - generic [ref=e322]:
+                    - generic [ref=e323]:
+                      - generic [ref=e324]: botanical, soft clinical, editorial
+                      - heading "Clinical skincare with a softer edge" [level=2] [ref=e325]
+                      - paragraph [ref=e326]: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+                    - generic [ref=e327]:
+                      - generic [ref=e328]: Book a consult
+                      - generic [ref=e329]: Used for treatment menus, booking pages, and practitioner profiles.
+                  - generic [ref=e337]:
+                    - generic [ref=e338]: Treatments
+                    - generic [ref=e339]: Results
+                    - generic [ref=e340]: Booking
+              - generic [ref=e341]:
+                - generic [ref=e342]:
+                  - paragraph [ref=e343]: Botanical Clinic
+                  - paragraph [ref=e344]: Wellness / botanical, soft clinical, editorial
+                - generic [ref=e345]:
+                  - text: $59
+                  - img [ref=e346]
+          - article [ref=e349]:
+            - link "Open Neon Dental preview editor" [ref=e351] [cursor=pointer]:
+              - /url: /templates/neon-dental
+              - article "Neon Dental website preview" [ref=e354]:
+                - generic [ref=e356]:
+                  - generic [ref=e360]: Neon Dental
+                  - generic [ref=e362]:
+                    - generic [ref=e363]:
+                      - generic [ref=e364]: clean, bright, trust-forward
+                      - heading "A brighter clinic visit, from the first click" [level=2] [ref=e365]
+                      - paragraph [ref=e366]: Designed for dental groups, orthodontists, urgent clinics, and health practices that need clarity with a little visual edge.
+                    - generic [ref=e367]:
+                      - generic [ref=e368]: Start intake
+                      - generic [ref=e369]: Includes insurance cues, care pathways, location panel, and patient-ready copy.
+                  - generic [ref=e377]:
+                    - generic [ref=e378]: Care
+                    - generic [ref=e379]: Insurance
+                    - generic [ref=e380]: Visit
+              - generic [ref=e381]:
+                - generic [ref=e382]:
+                  - paragraph [ref=e383]: Neon Dental
+                  - paragraph [ref=e384]: Healthcare / clean, bright, trust-forward
+                - generic [ref=e385]:
+                  - text: $49
+                  - img [ref=e386]
+        - generic [ref=e389]:
+          - article [ref=e390]:
+            - link "Open Ceramic Market preview editor" [ref=e392] [cursor=pointer]:
+              - /url: /templates/ceramic-market
+              - article "Ceramic Market website preview" [ref=e395]:
+                - generic [ref=e397]:
+                  - generic [ref=e401]: Ceramic Market
+                  - generic [ref=e403]:
+                    - generic [ref=e404]:
+                      - generic [ref=e405]: crafted, gallery retail, tactile
+                      - heading "Small batch objects with a gallery pace" [level=2] [ref=e406]
+                      - paragraph [ref=e407]: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                    - generic [ref=e408]:
+                      - generic [ref=e409]: View the drop
+                      - generic [ref=e410]: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                  - generic [ref=e420]:
+                    - generic [ref=e421]: Drop
+                    - generic [ref=e422]: Materials
+                    - generic [ref=e423]: Cart
+              - generic [ref=e424]:
+                - generic [ref=e425]:
+                  - paragraph [ref=e426]: Ceramic Market
+                  - paragraph [ref=e427]: Commerce / crafted, gallery retail, tactile
+                - generic [ref=e428]:
+                  - text: $59
+                  - img [ref=e429]
+          - article [ref=e432]:
+            - link "Open Founder Room preview editor" [ref=e434] [cursor=pointer]:
+              - /url: /templates/founder-room
+              - article "Founder Room website preview" [ref=e437]:
+                - generic [ref=e439]:
+                  - generic [ref=e443]: Founder Room
+                  - generic [ref=e444]:
+                    - generic [ref=e445]:
+                      - generic [ref=e446]:
+                        - generic [ref=e447]: precise, technical, investor-ready
+                        - heading "Run the room before the demo starts" [level=2] [ref=e448]
+                        - paragraph [ref=e449]: Built for AI operations, internal tools, analytics products, and early teams selling a technical promise with polish.
+                      - generic [ref=e450]:
+                        - generic [ref=e451]: See product tour
+                        - generic [ref=e452]: Includes dashboard hero, metric strip, feature proof, and investor-ready copy blocks.
+                    - generic [ref=e455]:
+                      - generic [ref=e457]: "84"
+                      - generic [ref=e458]: signals
+                  - generic [ref=e469]:
+                    - generic [ref=e470]: Signal
+                    - generic [ref=e471]: Workflow
+                    - generic [ref=e472]: Demo
+              - generic [ref=e473]:
+                - generic [ref=e474]:
+                  - paragraph [ref=e475]: Founder Room
+                  - paragraph [ref=e476]: B2B SaaS / precise, technical, investor-ready
+                - generic [ref=e477]:
+                  - text: $49
+                  - img [ref=e478]
+          - article [ref=e481]:
+            - link "Open Micro Hotel preview editor" [ref=e483] [cursor=pointer]:
+              - /url: /templates/micro-hotel
+              - article "Micro Hotel website preview" [ref=e486]:
+                - generic [ref=e488]:
+                  - generic [ref=e492]: Micro Hotel
+                  - generic [ref=e494]:
+                    - generic [ref=e495]:
+                      - generic [ref=e496]: cinematic, intimate, editorial travel
+                      - heading "A small hotel with a long memory" [level=2] [ref=e497]
+                      - paragraph [ref=e498]: For boutique stays, cabins, guest houses, and micro-hotels that sell mood, location, and a clear path to booking.
+                    - generic [ref=e499]:
+                      - generic [ref=e500]: Check dates
+                      - generic [ref=e501]: Includes room gallery, amenities, neighborhood notes, and booking CTA.
+                  - generic [ref=e507]:
+                    - generic [ref=e508]: Rooms
+                    - generic [ref=e509]: Neighborhood
+                    - generic [ref=e510]: Dates
+              - generic [ref=e511]:
+                - generic [ref=e512]:
+                  - paragraph [ref=e513]: Micro Hotel
+                  - paragraph [ref=e514]: Hospitality / cinematic, intimate, editorial travel
+                - generic [ref=e515]:
+                  - text: $29
+                  - img [ref=e516]

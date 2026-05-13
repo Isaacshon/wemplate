@@ -1,0 +1,80 @@
+- main [ref=e2]:
+  - link "Back to menu" [ref=e4] [cursor=pointer]:
+    - /url: /#best-sellers
+    - img [ref=e5]
+    - text: Back to menu
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - paragraph [ref=e11]: Wellness live preview
+          - heading "Botanical Clinic" [level=1] [ref=e12]
+        - generic [ref=e13]: $59
+      - article "Botanical Clinic website preview" [ref=e14]:
+        - generic [ref=e16]:
+          - generic [ref=e17]:
+            - generic [ref=e20]: Botanical Clinic
+            - generic [ref=e21]:
+              - generic [ref=e22]: Treatments
+              - generic [ref=e23]: Results
+              - generic [ref=e24]: Booking
+          - generic [ref=e26]:
+            - generic [ref=e27]:
+              - generic [ref=e28]: botanical, soft clinical, editorial
+              - heading "Clinical skincare with a softer edge" [level=2] [ref=e29]
+              - paragraph [ref=e30]: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+            - generic [ref=e31]:
+              - generic [ref=e32]: Book a consult
+              - generic [ref=e33]: Used for treatment menus, booking pages, and practitioner profiles.
+          - generic [ref=e41]:
+            - generic [ref=e42]: Treatments
+            - generic [ref=e43]: Results
+            - generic [ref=e44]: Booking
+    - complementary [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]:
+          - paragraph [ref=e48]: Editor
+          - heading "Make it yours" [level=2] [ref=e49]
+        - img [ref=e50]
+      - generic [ref=e51]:
+        - generic [ref=e52]:
+          - text: Headline
+          - textbox "Headline" [ref=e53]: Clinical skincare with a softer edge
+        - generic [ref=e54]:
+          - text: CTA copy
+          - textbox "CTA copy" [ref=e55]: Book a consult
+        - generic [ref=e56]:
+          - text: Main color
+          - generic [ref=e57]:
+            - 'button "Set main color to #D8C39F" [ref=e58] [cursor=pointer]'
+            - 'button "Set main color to #B7D7A8" [ref=e59] [cursor=pointer]'
+            - 'button "Set main color to #8FA8FF" [ref=e60] [cursor=pointer]'
+            - 'button "Set main color to #C47A5A" [ref=e61] [cursor=pointer]'
+            - 'button "Set main color to #7ED8D0" [ref=e62] [cursor=pointer]'
+            - 'button "Set main color to #D6B98C" [ref=e63] [cursor=pointer]'
+          - textbox "Main color" [ref=e64] [cursor=pointer]: "#b7d7a8"
+        - generic [ref=e65]:
+          - text: Background
+          - generic [ref=e66]:
+            - 'button "Set background to #0D0D0C" [ref=e67] [cursor=pointer]'
+            - 'button "Set background to #171513" [ref=e68] [cursor=pointer]'
+            - 'button "Set background to #201B18" [ref=e69] [cursor=pointer]'
+            - 'button "Set background to #F2EFE7" [ref=e70] [cursor=pointer]'
+            - 'button "Set background to #EEF7F5" [ref=e71] [cursor=pointer]'
+            - 'button "Set background to #F4F6FF" [ref=e72] [cursor=pointer]'
+          - textbox "Background" [ref=e73] [cursor=pointer]: "#f2efe7"
+        - generic [ref=e74]:
+          - text: Text color
+          - generic [ref=e75]:
+            - 'button "Set text color to #F4EFE4" [ref=e76] [cursor=pointer]'
+            - 'button "Set text color to #151413" [ref=e77] [cursor=pointer]'
+            - 'button "Set text color to #182019" [ref=e78] [cursor=pointer]'
+            - 'button "Set text color to #10211F" [ref=e79] [cursor=pointer]'
+          - textbox "Text color" [ref=e80] [cursor=pointer]: "#182019"
+        - button "Reset preview" [disabled] [ref=e81]:
+          - img [ref=e82]
+          - text: Reset preview
+        - generic [ref=e85]: This edits the live preview before purchase. The finished ZIP or access link is still delivered by email.
+        - button "Buy this site" [ref=e87] [cursor=pointer]:
+          - generic [ref=e88]: Buy this site
+          - img [ref=e89]

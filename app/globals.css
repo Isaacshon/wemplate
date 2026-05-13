@@ -1,0 +1,73 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-body: "Pretendard";
+  --ink: #f4efe4;
+  --paper: #0d0d0c;
+  --cobalt: #d8c39f;
+  --acid: #d8c39f;
+  --coral: #b77859;
+  --muted: #a7a197;
+  --line: rgba(244, 239, 228, 0.14);
+  --gallery: #151413;
+  --metal: #797167;
+  --smoke: #1d1c1a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  overflow-x: hidden;
+  background: #000;
+  color: var(--ink);
+}
+
+body::before {
+  pointer-events: none;
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: 60;
+  opacity: 0.1;
+  background-image:
+    linear-gradient(rgba(244, 239, 228, 0.04) 1px, transparent 1px),
+    radial-gradient(circle at center, rgba(244, 239, 228, 0.12) 0.5px, transparent 0.7px);
+  background-size: 100% 5px, 9px 9px;
+  mix-blend-mode: screen;
+}
+
+::selection {
+  background: var(--acid);
+  color: var(--ink);
+}
+
+@layer base {
+  a,
+  button {
+    @apply focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-cobalt;
+  }
+
+  input,
+  textarea {
+    color-scheme: dark;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .container-px {
+    @apply px-4 sm:px-6 lg:px-8;
+  }
+}

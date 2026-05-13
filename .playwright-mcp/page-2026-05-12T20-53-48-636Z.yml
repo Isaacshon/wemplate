@@ -1,0 +1,219 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Primary navigation" [ref=e4]:
+      - link "Wem plate (R)" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - text: Wem
+        - generic [ref=e6]: plate
+        - generic [ref=e7]: (R)
+      - generic [ref=e8]:
+        - button "$59" [ref=e9] [cursor=pointer]
+        - button "$49" [ref=e10] [cursor=pointer]
+        - button "$29" [ref=e11] [cursor=pointer]
+        - link "FAQ" [ref=e12] [cursor=pointer]:
+          - /url: "#faq"
+      - link "Contact" [ref=e13] [cursor=pointer]:
+        - /url: mailto:drops@wemplate.co
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - generic:
+        - generic:
+          - paragraph: Best selling website works
+          - heading "Wemplate" [level=1]
+          - paragraph: Scroll the wall. Open a site preview. Tune the palette before checkout.
+      - generic [ref=e16]:
+        - generic [ref=e17]:
+          - article [ref=e18]:
+            - link "Open Botanical Clinic preview editor" [ref=e20] [cursor=pointer]:
+              - /url: /templates/botanical-clinic
+              - article "Botanical Clinic website preview" [ref=e23]:
+                - generic [ref=e25]:
+                  - generic [ref=e29]: Botanical Clinic
+                  - generic [ref=e31]:
+                    - generic [ref=e32]:
+                      - generic [ref=e33]: botanical, soft clinical, editorial
+                      - heading "Clinical skincare with a softer edge" [level=2] [ref=e34]
+                      - paragraph [ref=e35]: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+                    - generic [ref=e36]:
+                      - generic [ref=e37]: Book a consult
+                      - generic [ref=e38]: Used for treatment menus, booking pages, and practitioner profiles.
+                  - generic [ref=e46]:
+                    - generic [ref=e47]: Treatments
+                    - generic [ref=e48]: Results
+                    - generic [ref=e49]: Booking
+              - generic [ref=e50]:
+                - generic [ref=e51]:
+                  - paragraph [ref=e52]: Botanical Clinic
+                  - paragraph [ref=e53]: Wellness / botanical, soft clinical, editorial
+                - generic [ref=e54]:
+                  - text: $59
+                  - img [ref=e55]
+          - article [ref=e58]:
+            - link "Open Neon Dental preview editor" [ref=e60] [cursor=pointer]:
+              - /url: /templates/neon-dental
+              - article "Neon Dental website preview" [ref=e63]:
+                - generic [ref=e65]:
+                  - generic [ref=e69]: Neon Dental
+                  - generic [ref=e71]:
+                    - generic [ref=e72]:
+                      - generic [ref=e73]: clean, bright, trust-forward
+                      - heading "A brighter clinic visit, from the first click" [level=2] [ref=e74]
+                      - paragraph [ref=e75]: Designed for dental groups, orthodontists, urgent clinics, and health practices that need clarity with a little visual edge.
+                    - generic [ref=e76]:
+                      - generic [ref=e77]: Start intake
+                      - generic [ref=e78]: Includes insurance cues, care pathways, location panel, and patient-ready copy.
+                  - generic [ref=e86]:
+                    - generic [ref=e87]: Care
+                    - generic [ref=e88]: Insurance
+                    - generic [ref=e89]: Visit
+              - generic [ref=e90]:
+                - generic [ref=e91]:
+                  - paragraph [ref=e92]: Neon Dental
+                  - paragraph [ref=e93]: Healthcare / clean, bright, trust-forward
+                - generic [ref=e94]:
+                  - text: $49
+                  - img [ref=e95]
+        - generic [ref=e98]:
+          - article [ref=e99]:
+            - link "Open Founder Room preview editor" [ref=e101] [cursor=pointer]:
+              - /url: /templates/founder-room
+              - article "Founder Room website preview" [ref=e104]:
+                - generic [ref=e106]:
+                  - generic [ref=e110]: Founder Room
+                  - generic [ref=e111]:
+                    - generic [ref=e112]:
+                      - generic [ref=e113]:
+                        - generic [ref=e114]: precise, technical, investor-ready
+                        - heading "Run the room before the demo starts" [level=2] [ref=e115]
+                        - paragraph [ref=e116]: Built for AI operations, internal tools, analytics products, and early teams selling a technical promise with polish.
+                      - generic [ref=e117]:
+                        - generic [ref=e118]: See product tour
+                        - generic [ref=e119]: Includes dashboard hero, metric strip, feature proof, and investor-ready copy blocks.
+                    - generic [ref=e122]:
+                      - generic [ref=e124]: "84"
+                      - generic [ref=e125]: signals
+                  - generic [ref=e136]:
+                    - generic [ref=e137]: Signal
+                    - generic [ref=e138]: Workflow
+                    - generic [ref=e139]: Demo
+              - generic [ref=e140]:
+                - generic [ref=e141]:
+                  - paragraph [ref=e142]: Founder Room
+                  - paragraph [ref=e143]: B2B SaaS / precise, technical, investor-ready
+                - generic [ref=e144]:
+                  - text: $49
+                  - img [ref=e145]
+          - article [ref=e148]:
+            - link "Open Micro Hotel preview editor" [ref=e150] [cursor=pointer]:
+              - /url: /templates/micro-hotel
+              - article "Micro Hotel website preview" [ref=e153]:
+                - generic [ref=e155]:
+                  - generic [ref=e159]: Micro Hotel
+                  - generic [ref=e161]:
+                    - generic [ref=e162]:
+                      - generic [ref=e163]: cinematic, intimate, editorial travel
+                      - heading "A small hotel with a long memory" [level=2] [ref=e164]
+                      - paragraph [ref=e165]: For boutique stays, cabins, guest houses, and micro-hotels that sell mood, location, and a clear path to booking.
+                    - generic [ref=e166]:
+                      - generic [ref=e167]: Check dates
+                      - generic [ref=e168]: Includes room gallery, amenities, neighborhood notes, and booking CTA.
+                  - generic [ref=e174]:
+                    - generic [ref=e175]: Rooms
+                    - generic [ref=e176]: Neighborhood
+                    - generic [ref=e177]: Dates
+              - generic [ref=e178]:
+                - generic [ref=e179]:
+                  - paragraph [ref=e180]: Micro Hotel
+                  - paragraph [ref=e181]: Hospitality / cinematic, intimate, editorial travel
+                - generic [ref=e182]:
+                  - text: $29
+                  - img [ref=e183]
+        - article [ref=e187]:
+          - link "Open Afterhours Barber preview editor" [ref=e189] [cursor=pointer]:
+            - /url: /templates/afterhours-barber
+            - article "Afterhours Barber website preview" [ref=e192]:
+              - generic [ref=e194]:
+                - generic [ref=e198]: Afterhours Barber
+                - generic [ref=e200]:
+                  - generic [ref=e201]:
+                    - generic [ref=e202]: moody, tactile, appointment-first
+                    - heading "Cuts after dark, booked before noon" [level=2] [ref=e203]
+                    - paragraph [ref=e204]: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                  - generic [ref=e205]:
+                    - generic [ref=e206]: Reserve a chair
+                    - generic [ref=e207]: Optimized for menus, hours, location, and high-intent booking.
+                - generic [ref=e215]:
+                  - generic [ref=e216]: Services
+                  - generic [ref=e217]: Artists
+                  - generic [ref=e218]: Reserve
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - paragraph [ref=e221]: Afterhours Barber
+                - paragraph [ref=e222]: Local service / moody, tactile, appointment-first
+              - generic [ref=e223]:
+                - text: $29
+                - img [ref=e224]
+        - article [ref=e228]:
+          - link "Open Ceramic Market preview editor" [ref=e230] [cursor=pointer]:
+            - /url: /templates/ceramic-market
+            - article "Ceramic Market website preview" [ref=e233]:
+              - generic [ref=e235]:
+                - generic [ref=e239]: Ceramic Market
+                - generic [ref=e241]:
+                  - generic [ref=e242]:
+                    - generic [ref=e243]: crafted, gallery retail, tactile
+                    - heading "Small batch objects with a gallery pace" [level=2] [ref=e244]
+                    - paragraph [ref=e245]: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                  - generic [ref=e246]:
+                    - generic [ref=e247]: View the drop
+                    - generic [ref=e248]: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                - generic [ref=e258]:
+                  - generic [ref=e259]: Drop
+                  - generic [ref=e260]: Materials
+                  - generic [ref=e261]: Cart
+            - generic [ref=e262]:
+              - generic [ref=e263]:
+                - paragraph [ref=e264]: Ceramic Market
+                - paragraph [ref=e265]: Commerce / crafted, gallery retail, tactile
+              - generic [ref=e266]:
+                - text: $59
+                - img [ref=e267]
+    - generic [ref=e270]:
+      - generic [ref=e271]:
+        - paragraph [ref=e272]: FAQ
+        - heading "Straight answers before checkout." [level=2] [ref=e273]
+      - generic [ref=e274]:
+        - group [ref=e275]:
+          - generic "How do I receive the template? +" [ref=e276] [cursor=pointer]:
+            - text: How do I receive the template?
+            - generic [ref=e277]: +
+        - group [ref=e278]:
+          - generic "Can I resell a template to a client? +" [ref=e279] [cursor=pointer]:
+            - text: Can I resell a template to a client?
+            - generic [ref=e280]: +
+        - group [ref=e281]:
+          - generic "Does Google Pay work? +" [ref=e282] [cursor=pointer]:
+            - text: Does Google Pay work?
+            - generic [ref=e283]: +
+        - group [ref=e284]:
+          - generic "What happens to the daily random website generator? +" [ref=e285] [cursor=pointer]:
+            - text: What happens to the daily random website generator?
+            - generic [ref=e286]: +
+  - contentinfo [ref=e287]:
+    - generic [ref=e288]:
+      - generic [ref=e289]:
+        - generic [ref=e290]:
+          - generic [ref=e291]:
+            - img [ref=e293]
+            - generic [ref=e296]: Wemplate
+          - paragraph [ref=e297]: Premium daily website templates for resellers, studios, and fast-moving operators.
+        - generic [ref=e298]:
+          - link "Best sellers" [ref=e299] [cursor=pointer]:
+            - /url: "#best-sellers"
+            - text: Best sellers
+            - img [ref=e300]
+          - link "FAQ" [ref=e303] [cursor=pointer]:
+            - /url: "#faq"
+            - text: FAQ
+            - img [ref=e304]
+      - generic [ref=e307]: (c) 2026 Wemplate. Built for daily drops.

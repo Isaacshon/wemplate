@@ -1,0 +1,63 @@
+- main [ref=e2]:
+  - link "Back to menu" [ref=e4] [cursor=pointer]:
+    - /url: /#best-sellers
+    - img [ref=e5]
+    - text: Back to menu
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - paragraph [ref=e11]: Wellness preview
+          - heading "Botanical Clinic" [level=1] [ref=e12]
+        - generic [ref=e13]: $59
+      - generic "Botanical Clinic website preview" [ref=e14]:
+        - generic [ref=e15]:
+          - generic [ref=e18]: Wellness
+          - generic [ref=e19]:
+            - generic [ref=e20]: Work
+            - generic [ref=e21]: Proof
+            - generic [ref=e22]: Buy
+        - generic [ref=e23]:
+          - generic [ref=e24]:
+            - generic [ref=e25]: New drop
+            - generic [ref=e26]: Botanical Clinic
+            - paragraph [ref=e27]: Clinical skincare studio with quiet luxury motion
+          - generic [ref=e42]:
+            - generic [ref=e43]: Fast setup
+            - generic [ref=e44]: Responsive
+            - generic [ref=e45]: Motion
+    - complementary [ref=e46]:
+      - generic [ref=e47]:
+        - generic [ref=e48]:
+          - paragraph [ref=e49]: Mini editor
+          - heading "Tune the look" [level=2] [ref=e50]
+        - img [ref=e51]
+      - generic [ref=e55]:
+        - generic [ref=e56]:
+          - text: Main color
+          - generic [ref=e57]:
+            - 'button "Set main color to #C9FF3D" [ref=e58] [cursor=pointer]'
+            - 'button "Set main color to #2147FF" [ref=e59] [cursor=pointer]'
+            - 'button "Set main color to #FF6B5F" [ref=e60] [cursor=pointer]'
+            - 'button "Set main color to #171717" [ref=e61] [cursor=pointer]'
+            - 'button "Set main color to #14B8A6" [ref=e62] [cursor=pointer]'
+            - 'button "Set main color to #F6C945" [ref=e63] [cursor=pointer]'
+          - textbox "Main color" [ref=e64] [cursor=pointer]: "#c9ff3d"
+        - generic [ref=e65]:
+          - text: Background
+          - generic [ref=e66]:
+            - 'button "Set background to #F7F4ED" [ref=e67] [cursor=pointer]'
+            - 'button "Set background to #F3F5FF" [ref=e68] [cursor=pointer]'
+            - 'button "Set background to #EEF8F6" [ref=e69] [cursor=pointer]'
+            - 'button "Set background to #151515" [ref=e70] [cursor=pointer]'
+          - textbox "Background" [ref=e71] [cursor=pointer]: "#f6f4ea"
+        - generic [ref=e72]:
+          - text: Text color
+          - textbox "Text color" [ref=e73] [cursor=pointer]: "#182019"
+        - button "Reset colors" [disabled] [ref=e74]:
+          - img [ref=e75]
+          - text: Reset colors
+        - generic [ref=e78]: This editor previews the color direction before purchase. The exported ZIP is delivered by email with setup notes.
+        - button "Buy this site" [ref=e80] [cursor=pointer]:
+          - generic [ref=e81]: Buy this site
+          - img [ref=e82]

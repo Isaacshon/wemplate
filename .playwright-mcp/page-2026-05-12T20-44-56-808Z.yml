@@ -1,0 +1,506 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Primary navigation" [ref=e4]:
+      - link "Wem plate ®" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - text: Wem
+        - generic [ref=e6]: plate
+        - generic [ref=e7]: ®
+      - generic [ref=e8]:
+        - link "$59" [ref=e9] [cursor=pointer]:
+          - /url: "#price-59"
+        - link "$49" [ref=e10] [cursor=pointer]:
+          - /url: "#price-49"
+        - link "$29" [ref=e11] [cursor=pointer]:
+          - /url: "#price-29"
+        - link "FAQ" [ref=e12] [cursor=pointer]:
+          - /url: "#faq"
+      - link "Contact" [ref=e13] [cursor=pointer]:
+        - /url: mailto:drops@wemplate.co
+  - main [ref=e14]:
+    - generic [ref=e15]:
+      - generic [ref=e16]:
+        - generic:
+          - generic:
+            - generic:
+              - article "Botanical Clinic website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Botanical Clinic
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: botanical, soft clinical, editorial
+                        - heading "Clinical skincare with a softer edge" [level=2]
+                        - paragraph: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+                      - generic:
+                        - generic: Book a consult
+                        - generic: Used for treatment menus, booking pages, and practitioner profiles.
+                  - generic:
+                    - generic: Treatments
+                    - generic: Results
+                    - generic: Booking
+            - generic:
+              - article "Founder Room website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Founder Room
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: precise, technical, investor-ready
+                        - heading "Run the room before the demo starts" [level=2]
+                        - paragraph: Built for AI operations, internal tools, analytics products, and early teams selling a technical promise with polish.
+                      - generic:
+                        - generic: See product tour
+                        - generic: Includes dashboard hero, metric strip, feature proof, and investor-ready copy blocks.
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: "84"
+                          - generic: signals
+                  - generic:
+                    - generic: Signal
+                    - generic: Workflow
+                    - generic: Demo
+            - generic:
+              - article "Afterhours Barber website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Afterhours Barber
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: moody, tactile, appointment-first
+                        - heading "Cuts after dark, booked before noon" [level=2]
+                        - paragraph: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                      - generic:
+                        - generic: Reserve a chair
+                        - generic: Optimized for menus, hours, location, and high-intent booking.
+                  - generic:
+                    - generic: Services
+                    - generic: Artists
+                    - generic: Reserve
+          - generic:
+            - generic:
+              - article "Founder Room website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Founder Room
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: precise, technical, investor-ready
+                        - heading "Run the room before the demo starts" [level=2]
+                        - paragraph: Built for AI operations, internal tools, analytics products, and early teams selling a technical promise with polish.
+                      - generic:
+                        - generic: See product tour
+                        - generic: Includes dashboard hero, metric strip, feature proof, and investor-ready copy blocks.
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: "84"
+                          - generic: signals
+                  - generic:
+                    - generic: Signal
+                    - generic: Workflow
+                    - generic: Demo
+            - generic:
+              - article "Afterhours Barber website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Afterhours Barber
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: moody, tactile, appointment-first
+                        - heading "Cuts after dark, booked before noon" [level=2]
+                        - paragraph: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                      - generic:
+                        - generic: Reserve a chair
+                        - generic: Optimized for menus, hours, location, and high-intent booking.
+                  - generic:
+                    - generic: Services
+                    - generic: Artists
+                    - generic: Reserve
+            - generic:
+              - article "Ceramic Market website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ceramic Market
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: crafted, gallery retail, tactile
+                        - heading "Small batch objects with a gallery pace" [level=2]
+                        - paragraph: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                      - generic:
+                        - generic: View the drop
+                        - generic: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                  - generic:
+                    - generic: Drop
+                    - generic: Materials
+                    - generic: Cart
+          - generic:
+            - generic:
+              - article "Afterhours Barber website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Afterhours Barber
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: moody, tactile, appointment-first
+                        - heading "Cuts after dark, booked before noon" [level=2]
+                        - paragraph: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                      - generic:
+                        - generic: Reserve a chair
+                        - generic: Optimized for menus, hours, location, and high-intent booking.
+                  - generic:
+                    - generic: Services
+                    - generic: Artists
+                    - generic: Reserve
+            - generic:
+              - article "Ceramic Market website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ceramic Market
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: crafted, gallery retail, tactile
+                        - heading "Small batch objects with a gallery pace" [level=2]
+                        - paragraph: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                      - generic:
+                        - generic: View the drop
+                        - generic: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                  - generic:
+                    - generic: Drop
+                    - generic: Materials
+                    - generic: Cart
+            - generic:
+              - article "Neon Dental website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Neon Dental
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: clean, bright, trust-forward
+                        - heading "A brighter clinic visit, from the first click" [level=2]
+                        - paragraph: Designed for dental groups, orthodontists, urgent clinics, and health practices that need clarity with a little visual edge.
+                      - generic:
+                        - generic: Start intake
+                        - generic: Includes insurance cues, care pathways, location panel, and patient-ready copy.
+                  - generic:
+                    - generic: Care
+                    - generic: Insurance
+                    - generic: Visit
+          - generic:
+            - generic:
+              - article "Ceramic Market website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Ceramic Market
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: crafted, gallery retail, tactile
+                        - heading "Small batch objects with a gallery pace" [level=2]
+                        - paragraph: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                      - generic:
+                        - generic: View the drop
+                        - generic: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                  - generic:
+                    - generic: Drop
+                    - generic: Materials
+                    - generic: Cart
+            - generic:
+              - article "Neon Dental website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Neon Dental
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: clean, bright, trust-forward
+                        - heading "A brighter clinic visit, from the first click" [level=2]
+                        - paragraph: Designed for dental groups, orthodontists, urgent clinics, and health practices that need clarity with a little visual edge.
+                      - generic:
+                        - generic: Start intake
+                        - generic: Includes insurance cues, care pathways, location panel, and patient-ready copy.
+                  - generic:
+                    - generic: Care
+                    - generic: Insurance
+                    - generic: Visit
+            - generic:
+              - article "Micro Hotel website preview":
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: Micro Hotel
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic: cinematic, intimate, editorial travel
+                        - heading "A small hotel with a long memory" [level=2]
+                        - paragraph: For boutique stays, cabins, guest houses, and micro-hotels that sell mood, location, and a clear path to booking.
+                      - generic:
+                        - generic: Check dates
+                        - generic: Includes room gallery, amenities, neighborhood notes, and booking CTA.
+                  - generic:
+                    - generic: Rooms
+                    - generic: Neighborhood
+                    - generic: Dates
+        - generic [ref=e17]:
+          - paragraph [ref=e18]: Better websites
+          - paragraph [ref=e19]: for better selling
+          - heading "Wemplate" [level=1] [ref=e20]
+          - paragraph [ref=e21]: Website previews you can open, edit, and buy by price. No pitch deck, no long funnel, just the list.
+      - generic [ref=e23]:
+        - paragraph [ref=e24]: Price menu
+        - generic [ref=e25]:
+          - link "$59" [ref=e26] [cursor=pointer]:
+            - /url: "#price-59"
+          - link "$49" [ref=e27] [cursor=pointer]:
+            - /url: "#price-49"
+          - link "$29" [ref=e28] [cursor=pointer]:
+            - /url: "#price-29"
+      - generic [ref=e29]:
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: $59
+            - generic [ref=e33]: 2 ready-to-edit website drops at this price. Open a row to preview and edit before checkout.
+          - generic [ref=e34]:
+            - article [ref=e35]:
+              - link "Botanical Clinic website preview 01 / Wellness Botanical Clinic A calm skincare clinic site built around trust, treatments, and quiet luxury. botanical, soft clinical, editorial $59 Edit" [ref=e36] [cursor=pointer]:
+                - /url: /templates/botanical-clinic
+                - article "Botanical Clinic website preview" [ref=e40]:
+                  - generic [ref=e42]:
+                    - generic [ref=e46]: Botanical Clinic
+                    - generic [ref=e48]:
+                      - generic [ref=e49]:
+                        - generic [ref=e50]: botanical, soft clinical, editorial
+                        - heading "Clinical skincare with a softer edge" [level=2] [ref=e51]
+                        - paragraph [ref=e52]: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+                      - generic [ref=e53]:
+                        - generic [ref=e54]: Book a consult
+                        - generic [ref=e55]: Used for treatment menus, booking pages, and practitioner profiles.
+                    - generic [ref=e63]:
+                      - generic [ref=e64]: Treatments
+                      - generic [ref=e65]: Results
+                      - generic [ref=e66]: Booking
+                - generic [ref=e67]:
+                  - generic [ref=e68]: 01 / Wellness
+                  - heading "Botanical Clinic" [level=2] [ref=e69]
+                  - paragraph [ref=e70]: A calm skincare clinic site built around trust, treatments, and quiet luxury.
+                  - paragraph [ref=e71]: botanical, soft clinical, editorial
+                - generic [ref=e72]:
+                  - generic [ref=e73]: $59
+                  - generic [ref=e74]:
+                    - text: Edit
+                    - img [ref=e75]
+            - article [ref=e78]:
+              - link "Ceramic Market website preview 02 / Commerce Ceramic Market A product-drop storefront for handmade goods, small catalogs, and limited releases. crafted, gallery retail, tactile $59 Edit" [ref=e79] [cursor=pointer]:
+                - /url: /templates/ceramic-market
+                - article "Ceramic Market website preview" [ref=e83]:
+                  - generic [ref=e85]:
+                    - generic [ref=e89]: Ceramic Market
+                    - generic [ref=e91]:
+                      - generic [ref=e92]:
+                        - generic [ref=e93]: crafted, gallery retail, tactile
+                        - heading "Small batch objects with a gallery pace" [level=2] [ref=e94]
+                        - paragraph [ref=e95]: Made for ceramicists, object makers, fragrance labels, and shops that need products to feel collected, not dumped into a grid.
+                      - generic [ref=e96]:
+                        - generic [ref=e97]: View the drop
+                        - generic [ref=e98]: Includes drop cards, material notes, social proof, and a conversion-focused product path.
+                    - generic [ref=e108]:
+                      - generic [ref=e109]: Drop
+                      - generic [ref=e110]: Materials
+                      - generic [ref=e111]: Cart
+                - generic [ref=e112]:
+                  - generic [ref=e113]: 02 / Commerce
+                  - heading "Ceramic Market" [level=2] [ref=e114]
+                  - paragraph [ref=e115]: A product-drop storefront for handmade goods, small catalogs, and limited releases.
+                  - paragraph [ref=e116]: crafted, gallery retail, tactile
+                - generic [ref=e117]:
+                  - generic [ref=e118]: $59
+                  - generic [ref=e119]:
+                    - text: Edit
+                    - img [ref=e120]
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e125]: $49
+            - generic [ref=e126]: 2 ready-to-edit website drops at this price. Open a row to preview and edit before checkout.
+          - generic [ref=e127]:
+            - article [ref=e128]:
+              - link "Founder Room website preview 01 / B2B SaaS Founder Room A founder-grade SaaS landing page with metrics, dashboard proof, and direct CTAs. precise, technical, investor-ready $49 Edit" [ref=e129] [cursor=pointer]:
+                - /url: /templates/founder-room
+                - article "Founder Room website preview" [ref=e133]:
+                  - generic [ref=e135]:
+                    - generic [ref=e139]: Founder Room
+                    - generic [ref=e140]:
+                      - generic [ref=e141]:
+                        - generic [ref=e142]:
+                          - generic [ref=e143]: precise, technical, investor-ready
+                          - heading "Run the room before the demo starts" [level=2] [ref=e144]
+                          - paragraph [ref=e145]: Built for AI operations, internal tools, analytics products, and early teams selling a technical promise with polish.
+                        - generic [ref=e146]:
+                          - generic [ref=e147]: See product tour
+                          - generic [ref=e148]: Includes dashboard hero, metric strip, feature proof, and investor-ready copy blocks.
+                      - generic [ref=e151]:
+                        - generic [ref=e153]: "84"
+                        - generic [ref=e154]: signals
+                    - generic [ref=e165]:
+                      - generic [ref=e166]: Signal
+                      - generic [ref=e167]: Workflow
+                      - generic [ref=e168]: Demo
+                - generic [ref=e169]:
+                  - generic [ref=e170]: 01 / B2B SaaS
+                  - heading "Founder Room" [level=2] [ref=e171]
+                  - paragraph [ref=e172]: A founder-grade SaaS landing page with metrics, dashboard proof, and direct CTAs.
+                  - paragraph [ref=e173]: precise, technical, investor-ready
+                - generic [ref=e174]:
+                  - generic [ref=e175]: $49
+                  - generic [ref=e176]:
+                    - text: Edit
+                    - img [ref=e177]
+            - article [ref=e180]:
+              - link "Neon Dental website preview 02 / Healthcare Neon Dental A confident clinic site that makes dental care feel modern without losing trust. clean, bright, trust-forward $49 Edit" [ref=e181] [cursor=pointer]:
+                - /url: /templates/neon-dental
+                - article "Neon Dental website preview" [ref=e185]:
+                  - generic [ref=e187]:
+                    - generic [ref=e191]: Neon Dental
+                    - generic [ref=e193]:
+                      - generic [ref=e194]:
+                        - generic [ref=e195]: clean, bright, trust-forward
+                        - heading "A brighter clinic visit, from the first click" [level=2] [ref=e196]
+                        - paragraph [ref=e197]: Designed for dental groups, orthodontists, urgent clinics, and health practices that need clarity with a little visual edge.
+                      - generic [ref=e198]:
+                        - generic [ref=e199]: Start intake
+                        - generic [ref=e200]: Includes insurance cues, care pathways, location panel, and patient-ready copy.
+                    - generic [ref=e208]:
+                      - generic [ref=e209]: Care
+                      - generic [ref=e210]: Insurance
+                      - generic [ref=e211]: Visit
+                - generic [ref=e212]:
+                  - generic [ref=e213]: 02 / Healthcare
+                  - heading "Neon Dental" [level=2] [ref=e214]
+                  - paragraph [ref=e215]: A confident clinic site that makes dental care feel modern without losing trust.
+                  - paragraph [ref=e216]: clean, bright, trust-forward
+                - generic [ref=e217]:
+                  - generic [ref=e218]: $49
+                  - generic [ref=e219]:
+                    - text: Edit
+                    - img [ref=e220]
+        - generic [ref=e223]:
+          - generic [ref=e224]:
+            - generic [ref=e225]: $29
+            - generic [ref=e226]: 2 ready-to-edit website drops at this price. Open a row to preview and edit before checkout.
+          - generic [ref=e227]:
+            - article [ref=e228]:
+              - link "Afterhours Barber website preview 01 / Local service Afterhours Barber A cinematic booking site for premium grooming studios and appointment businesses. moody, tactile, appointment-first $29 Edit" [ref=e229] [cursor=pointer]:
+                - /url: /templates/afterhours-barber
+                - article "Afterhours Barber website preview" [ref=e233]:
+                  - generic [ref=e235]:
+                    - generic [ref=e239]: Afterhours Barber
+                    - generic [ref=e241]:
+                      - generic [ref=e242]:
+                        - generic [ref=e243]: moody, tactile, appointment-first
+                        - heading "Cuts after dark, booked before noon" [level=2] [ref=e244]
+                        - paragraph [ref=e245]: A compact service site for barbers, tattooers, salons, and studios that sell atmosphere as much as availability.
+                      - generic [ref=e246]:
+                        - generic [ref=e247]: Reserve a chair
+                        - generic [ref=e248]: Optimized for menus, hours, location, and high-intent booking.
+                    - generic [ref=e256]:
+                      - generic [ref=e257]: Services
+                      - generic [ref=e258]: Artists
+                      - generic [ref=e259]: Reserve
+                - generic [ref=e260]:
+                  - generic [ref=e261]: 01 / Local service
+                  - heading "Afterhours Barber" [level=2] [ref=e262]
+                  - paragraph [ref=e263]: A cinematic booking site for premium grooming studios and appointment businesses.
+                  - paragraph [ref=e264]: moody, tactile, appointment-first
+                - generic [ref=e265]:
+                  - generic [ref=e266]: $29
+                  - generic [ref=e267]:
+                    - text: Edit
+                    - img [ref=e268]
+            - article [ref=e271]:
+              - link "Micro Hotel website preview 02 / Hospitality Micro Hotel A boutique stay site with strong gallery rhythm, room details, and direct booking. cinematic, intimate, editorial travel $29 Edit" [ref=e272] [cursor=pointer]:
+                - /url: /templates/micro-hotel
+                - article "Micro Hotel website preview" [ref=e276]:
+                  - generic [ref=e278]:
+                    - generic [ref=e282]: Micro Hotel
+                    - generic [ref=e284]:
+                      - generic [ref=e285]:
+                        - generic [ref=e286]: cinematic, intimate, editorial travel
+                        - heading "A small hotel with a long memory" [level=2] [ref=e287]
+                        - paragraph [ref=e288]: For boutique stays, cabins, guest houses, and micro-hotels that sell mood, location, and a clear path to booking.
+                      - generic [ref=e289]:
+                        - generic [ref=e290]: Check dates
+                        - generic [ref=e291]: Includes room gallery, amenities, neighborhood notes, and booking CTA.
+                    - generic [ref=e297]:
+                      - generic [ref=e298]: Rooms
+                      - generic [ref=e299]: Neighborhood
+                      - generic [ref=e300]: Dates
+                - generic [ref=e301]:
+                  - generic [ref=e302]: 02 / Hospitality
+                  - heading "Micro Hotel" [level=2] [ref=e303]
+                  - paragraph [ref=e304]: A boutique stay site with strong gallery rhythm, room details, and direct booking.
+                  - paragraph [ref=e305]: cinematic, intimate, editorial travel
+                - generic [ref=e306]:
+                  - generic [ref=e307]: $29
+                  - generic [ref=e308]:
+                    - text: Edit
+                    - img [ref=e309]
+    - generic [ref=e312]:
+      - generic [ref=e313]:
+        - paragraph [ref=e314]: FAQ
+        - heading "Straight answers before checkout." [level=2] [ref=e315]
+      - generic [ref=e316]:
+        - group [ref=e317]:
+          - generic "How do I receive the template? +" [ref=e318] [cursor=pointer]:
+            - text: How do I receive the template?
+            - generic [ref=e319]: +
+        - group [ref=e320]:
+          - generic "Can I resell a template to a client? +" [ref=e321] [cursor=pointer]:
+            - text: Can I resell a template to a client?
+            - generic [ref=e322]: +
+        - group [ref=e323]:
+          - generic "Does Google Pay work? +" [ref=e324] [cursor=pointer]:
+            - text: Does Google Pay work?
+            - generic [ref=e325]: +
+        - group [ref=e326]:
+          - generic "What happens to the daily random website generator? +" [ref=e327] [cursor=pointer]:
+            - text: What happens to the daily random website generator?
+            - generic [ref=e328]: +
+  - contentinfo [ref=e329]:
+    - generic [ref=e330]:
+      - generic [ref=e331]:
+        - generic [ref=e332]:
+          - generic [ref=e333]:
+            - img [ref=e335]
+            - generic [ref=e338]: Wemplate
+          - paragraph [ref=e339]: Premium daily website templates for resellers, studios, and fast-moving operators.
+        - generic [ref=e340]:
+          - link "Best sellers" [ref=e341] [cursor=pointer]:
+            - /url: "#best-sellers"
+            - text: Best sellers
+            - img [ref=e342]
+          - link "FAQ" [ref=e345] [cursor=pointer]:
+            - /url: "#faq"
+            - text: FAQ
+            - img [ref=e346]
+      - generic [ref=e349]: (c) 2026 Wemplate. Built for daily drops.

@@ -1,0 +1,215 @@
+- generic [ref=e2]:
+  - banner [ref=e3]:
+    - navigation "Primary navigation" [ref=e4]:
+      - link "Wemplate" [ref=e5] [cursor=pointer]:
+        - /url: "#top"
+        - img [ref=e7]
+        - generic [ref=e10]: Wemplate
+      - generic [ref=e11]:
+        - link "Menu" [ref=e12] [cursor=pointer]:
+          - /url: "#best-sellers"
+        - link "FAQ" [ref=e13] [cursor=pointer]:
+          - /url: "#faq"
+      - link "Shop menu" [ref=e14] [cursor=pointer]:
+        - /url: "#best-sellers"
+  - main [ref=e15]:
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e18]:
+          - paragraph [ref=e19]: Wemplate menu
+          - heading "Best sellers" [level=1] [ref=e20]
+        - generic [ref=e21]:
+          - generic [ref=e22]: $59
+          - generic [ref=e23]: $49
+          - generic [ref=e24]: $29
+      - generic [ref=e25]:
+        - img [ref=e26]
+        - text: Fresh daily website templates. Email delivery after checkout.
+      - generic [ref=e29]:
+        - article [ref=e30]:
+          - link "Botanical Clinic website preview Preview 01 / Wellness Botanical Clinic $59 Clinical skincare studio with quiet luxury motion Preview and edit" [ref=e31] [cursor=pointer]:
+            - /url: /templates/botanical-clinic
+            - generic "Botanical Clinic website preview" [ref=e32]:
+              - generic [ref=e33]:
+                - generic [ref=e36]: Wellness
+                - generic [ref=e37]:
+                  - generic [ref=e38]: Work
+                  - generic [ref=e39]: Proof
+                  - generic [ref=e40]: Buy
+              - generic [ref=e42]:
+                - generic [ref=e43]: New drop
+                - generic [ref=e44]: Botanical Clinic
+                - paragraph [ref=e45]: Clinical skincare studio with quiet luxury motion
+            - generic [ref=e60]:
+              - generic [ref=e61]:
+                - generic [ref=e62]:
+                  - generic [ref=e63]: Preview 01 / Wellness
+                  - heading "Botanical Clinic" [level=2] [ref=e64]
+                - generic [ref=e65]: $59
+              - paragraph [ref=e66]: Clinical skincare studio with quiet luxury motion
+              - generic [ref=e67]:
+                - text: Preview and edit
+                - img [ref=e68]
+        - article [ref=e71]:
+          - link "Founder Room website preview Preview 02 / B2B SaaS Founder Room $49 Investor-ready landing page for AI operations tools Preview and edit" [ref=e72] [cursor=pointer]:
+            - /url: /templates/founder-room
+            - generic "Founder Room website preview" [ref=e73]:
+              - generic [ref=e74]:
+                - generic [ref=e77]: B2B SaaS
+                - generic [ref=e78]:
+                  - generic [ref=e79]: Work
+                  - generic [ref=e80]: Proof
+                  - generic [ref=e81]: Buy
+              - generic [ref=e83]:
+                - generic [ref=e84]: New drop
+                - generic [ref=e85]: Founder Room
+                - paragraph [ref=e86]: Investor-ready landing page for AI operations tools
+            - generic [ref=e101]:
+              - generic [ref=e102]:
+                - generic [ref=e103]:
+                  - generic [ref=e104]: Preview 02 / B2B SaaS
+                  - heading "Founder Room" [level=2] [ref=e105]
+                - generic [ref=e106]: $49
+              - paragraph [ref=e107]: Investor-ready landing page for AI operations tools
+              - generic [ref=e108]:
+                - text: Preview and edit
+                - img [ref=e109]
+        - article [ref=e112]:
+          - link "Afterhours Barber website preview Preview 03 / Local service Afterhours Barber $29 Editorial booking site for premium grooming studios Preview and edit" [ref=e113] [cursor=pointer]:
+            - /url: /templates/afterhours-barber
+            - generic "Afterhours Barber website preview" [ref=e114]:
+              - generic [ref=e115]:
+                - generic [ref=e118]: Local service
+                - generic [ref=e119]:
+                  - generic [ref=e120]: Work
+                  - generic [ref=e121]: Proof
+                  - generic [ref=e122]: Buy
+              - generic [ref=e124]:
+                - generic [ref=e125]: New drop
+                - generic [ref=e126]: Afterhours Barber
+                - paragraph [ref=e127]: Editorial booking site for premium grooming studios
+            - generic [ref=e142]:
+              - generic [ref=e143]:
+                - generic [ref=e144]:
+                  - generic [ref=e145]: Preview 03 / Local service
+                  - heading "Afterhours Barber" [level=2] [ref=e146]
+                - generic [ref=e147]: $29
+              - paragraph [ref=e148]: Editorial booking site for premium grooming studios
+              - generic [ref=e149]:
+                - text: Preview and edit
+                - img [ref=e150]
+        - article [ref=e153]:
+          - link "Ceramic Market website preview Preview 04 / Commerce Ceramic Market $59 High-touch product drop page for handmade goods Preview and edit" [ref=e154] [cursor=pointer]:
+            - /url: /templates/ceramic-market
+            - generic "Ceramic Market website preview" [ref=e155]:
+              - generic [ref=e156]:
+                - generic [ref=e159]: Commerce
+                - generic [ref=e160]:
+                  - generic [ref=e161]: Work
+                  - generic [ref=e162]: Proof
+                  - generic [ref=e163]: Buy
+              - generic [ref=e165]:
+                - generic [ref=e166]: New drop
+                - generic [ref=e167]: Ceramic Market
+                - paragraph [ref=e168]: High-touch product drop page for handmade goods
+            - generic [ref=e183]:
+              - generic [ref=e184]:
+                - generic [ref=e185]:
+                  - generic [ref=e186]: Preview 04 / Commerce
+                  - heading "Ceramic Market" [level=2] [ref=e187]
+                - generic [ref=e188]: $59
+              - paragraph [ref=e189]: High-touch product drop page for handmade goods
+              - generic [ref=e190]:
+                - text: Preview and edit
+                - img [ref=e191]
+        - article [ref=e194]:
+          - link "Neon Dental website preview Preview 05 / Healthcare Neon Dental $49 Unexpected dental landing page with confident motion Preview and edit" [ref=e195] [cursor=pointer]:
+            - /url: /templates/neon-dental
+            - generic "Neon Dental website preview" [ref=e196]:
+              - generic [ref=e197]:
+                - generic [ref=e200]: Healthcare
+                - generic [ref=e201]:
+                  - generic [ref=e202]: Work
+                  - generic [ref=e203]: Proof
+                  - generic [ref=e204]: Buy
+              - generic [ref=e206]:
+                - generic [ref=e207]: New drop
+                - generic [ref=e208]: Neon Dental
+                - paragraph [ref=e209]: Unexpected dental landing page with confident motion
+            - generic [ref=e224]:
+              - generic [ref=e225]:
+                - generic [ref=e226]:
+                  - generic [ref=e227]: Preview 05 / Healthcare
+                  - heading "Neon Dental" [level=2] [ref=e228]
+                - generic [ref=e229]: $49
+              - paragraph [ref=e230]: Unexpected dental landing page with confident motion
+              - generic [ref=e231]:
+                - text: Preview and edit
+                - img [ref=e232]
+        - article [ref=e235]:
+          - link "Micro Hotel website preview Preview 06 / Hospitality Micro Hotel $29 Boutique stay page with cinematic room reveals Preview and edit" [ref=e236] [cursor=pointer]:
+            - /url: /templates/micro-hotel
+            - generic "Micro Hotel website preview" [ref=e237]:
+              - generic [ref=e238]:
+                - generic [ref=e241]: Hospitality
+                - generic [ref=e242]:
+                  - generic [ref=e243]: Work
+                  - generic [ref=e244]: Proof
+                  - generic [ref=e245]: Buy
+              - generic [ref=e247]:
+                - generic [ref=e248]: New drop
+                - generic [ref=e249]: Micro Hotel
+                - paragraph [ref=e250]: Boutique stay page with cinematic room reveals
+            - generic [ref=e265]:
+              - generic [ref=e266]:
+                - generic [ref=e267]:
+                  - generic [ref=e268]: Preview 06 / Hospitality
+                  - heading "Micro Hotel" [level=2] [ref=e269]
+                - generic [ref=e270]: $29
+              - paragraph [ref=e271]: Boutique stay page with cinematic room reveals
+              - generic [ref=e272]:
+                - text: Preview and edit
+                - img [ref=e273]
+      - link "Get tomorrow's drops" [ref=e276] [cursor=pointer]:
+        - /url: mailto:drops@wemplate.co?subject=Tomorrow%27s%20Wemplate%20drops
+        - text: Get tomorrow's drops
+        - img [ref=e277]
+    - generic [ref=e280]:
+      - generic [ref=e281]:
+        - paragraph [ref=e282]: FAQ
+        - heading "Straight answers before checkout." [level=2] [ref=e283]
+      - generic [ref=e284]:
+        - group [ref=e285]:
+          - generic "How do I receive the template? +" [ref=e286] [cursor=pointer]:
+            - text: How do I receive the template?
+            - generic [ref=e287]: +
+        - group [ref=e288]:
+          - generic "Can I resell a template to a client? +" [ref=e289] [cursor=pointer]:
+            - text: Can I resell a template to a client?
+            - generic [ref=e290]: +
+        - group [ref=e291]:
+          - generic "Does Google Pay work? +" [ref=e292] [cursor=pointer]:
+            - text: Does Google Pay work?
+            - generic [ref=e293]: +
+        - group [ref=e294]:
+          - generic "What happens to the daily random website generator? +" [ref=e295] [cursor=pointer]:
+            - text: What happens to the daily random website generator?
+            - generic [ref=e296]: +
+  - contentinfo [ref=e297]:
+    - generic [ref=e298]:
+      - generic [ref=e299]:
+        - generic [ref=e300]:
+          - generic [ref=e301]:
+            - img [ref=e303]
+            - generic [ref=e306]: Wemplate
+          - paragraph [ref=e307]: Premium daily website templates for resellers, studios, and fast-moving operators.
+        - generic [ref=e308]:
+          - link "Best sellers" [ref=e309] [cursor=pointer]:
+            - /url: "#best-sellers"
+            - text: Best sellers
+            - img [ref=e310]
+          - link "FAQ" [ref=e313] [cursor=pointer]:
+            - /url: "#faq"
+            - text: FAQ
+            - img [ref=e314]
+      - generic [ref=e317]: (c) 2026 Wemplate. Built for daily drops.

@@ -1,0 +1,82 @@
+- generic [active] [ref=e1]:
+  - alert [ref=e307]: Botanical Clinic preview | Wemplate
+  - main [ref=e314]:
+    - link "Back to menu" [ref=e316] [cursor=pointer]:
+      - /url: /#best-sellers
+      - img [ref=e317]
+      - text: Back to menu
+    - generic [ref=e319]:
+      - generic [ref=e320]:
+        - generic [ref=e321]:
+          - generic [ref=e322]:
+            - paragraph [ref=e323]: Wellness live preview
+            - heading "Botanical Clinic" [level=1] [ref=e324]
+          - generic [ref=e325]: $59
+        - article "Botanical Clinic website preview" [ref=e326]:
+          - generic [ref=e328]:
+            - generic [ref=e329]:
+              - generic [ref=e332]: Botanical Clinic
+              - generic [ref=e333]:
+                - generic [ref=e334]: Treatments
+                - generic [ref=e335]: Results
+                - generic [ref=e336]: Booking
+            - generic [ref=e338]:
+              - generic [ref=e339]:
+                - generic [ref=e340]: botanical, soft clinical, editorial
+                - heading "Clinical skincare with a softer edge" [level=2] [ref=e341]
+                - paragraph [ref=e342]: A refined appointment-led site for facial studios, cosmetic clinics, and founders who want care to feel calm before the first visit.
+              - generic [ref=e343]:
+                - generic [ref=e344]: Book a consult
+                - generic [ref=e345]: Used for treatment menus, booking pages, and practitioner profiles.
+            - generic [ref=e353]:
+              - generic [ref=e354]: Treatments
+              - generic [ref=e355]: Results
+              - generic [ref=e356]: Booking
+      - complementary [ref=e357]:
+        - generic [ref=e358]:
+          - generic [ref=e359]:
+            - paragraph [ref=e360]: Editor
+            - heading "Make it yours" [level=2] [ref=e361]
+          - img [ref=e362]
+        - generic [ref=e363]:
+          - generic [ref=e364]:
+            - text: Headline
+            - textbox "Headline" [ref=e365]: Clinical skincare with a softer edge
+          - generic [ref=e366]:
+            - text: CTA copy
+            - textbox "CTA copy" [ref=e367]: Book a consult
+          - generic [ref=e368]:
+            - text: Main color
+            - generic [ref=e369]:
+              - 'button "Set main color to #D8C39F" [ref=e370] [cursor=pointer]'
+              - 'button "Set main color to #B7D7A8" [ref=e371] [cursor=pointer]'
+              - 'button "Set main color to #8FA8FF" [ref=e372] [cursor=pointer]'
+              - 'button "Set main color to #C47A5A" [ref=e373] [cursor=pointer]'
+              - 'button "Set main color to #7ED8D0" [ref=e374] [cursor=pointer]'
+              - 'button "Set main color to #D6B98C" [ref=e375] [cursor=pointer]'
+            - textbox "Main color" [ref=e376] [cursor=pointer]: "#b7d7a8"
+          - generic [ref=e377]:
+            - text: Background
+            - generic [ref=e378]:
+              - 'button "Set background to #0D0D0C" [ref=e379] [cursor=pointer]'
+              - 'button "Set background to #171513" [ref=e380] [cursor=pointer]'
+              - 'button "Set background to #201B18" [ref=e381] [cursor=pointer]'
+              - 'button "Set background to #F2EFE7" [ref=e382] [cursor=pointer]'
+              - 'button "Set background to #EEF7F5" [ref=e383] [cursor=pointer]'
+              - 'button "Set background to #F4F6FF" [ref=e384] [cursor=pointer]'
+            - textbox "Background" [ref=e385] [cursor=pointer]: "#f2efe7"
+          - generic [ref=e386]:
+            - text: Text color
+            - generic [ref=e387]:
+              - 'button "Set text color to #F4EFE4" [ref=e388] [cursor=pointer]'
+              - 'button "Set text color to #151413" [ref=e389] [cursor=pointer]'
+              - 'button "Set text color to #182019" [ref=e390] [cursor=pointer]'
+              - 'button "Set text color to #10211F" [ref=e391] [cursor=pointer]'
+            - textbox "Text color" [ref=e392] [cursor=pointer]: "#182019"
+          - button "Reset preview" [disabled] [ref=e393]:
+            - img [ref=e394]
+            - text: Reset preview
+          - generic [ref=e397]: This edits the live preview before purchase. The finished ZIP or access link is still delivered by email.
+          - button "Buy this site" [ref=e399] [cursor=pointer]:
+            - generic [ref=e400]: Buy this site
+            - img [ref=e401]
