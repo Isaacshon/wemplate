@@ -78,6 +78,7 @@ function GalleryCard({
   const shouldReduceMotion = useReducedMotion();
   const isDimmed = selectedPrice !== null && template.priceUsd !== selectedPrice;
   const aspectClass = aspectPattern[columnIndex][itemIndex % aspectPattern[columnIndex].length];
+  const caption = getCaptionTone(template.palette.background);
 
   return (
     <motion.article
@@ -115,17 +116,26 @@ function GalleryCard({
               <TemplatePreview template={template} size="market" />
             </motion.div>
 
-            <div className="pointer-events-none absolute inset-x-3 bottom-3 z-20 flex items-end justify-between gap-3 mix-blend-difference">
-              <p className="max-w-[12rem] font-sans text-[clamp(1.05rem,1.28vw,1.45rem)] font-bold leading-[0.96] tracking-[-0.024em] text-white">
+            <div
+              className="pointer-events-none absolute inset-x-3 bottom-3 z-20 flex items-end justify-between gap-3"
+              style={{ color: caption.color, textShadow: caption.shadow }}
+            >
+              <p className="max-w-[12rem] font-sans text-[clamp(1.05rem,1.28vw,1.45rem)] font-bold leading-[0.96] tracking-[-0.024em]">
                 {template.name}
               </p>
-              <span className="shrink-0 font-sans text-[clamp(1.05rem,1.18vw,1.35rem)] font-bold leading-none tracking-[-0.024em] text-white">
+              <span className="shrink-0 font-sans text-[clamp(1.05rem,1.18vw,1.35rem)] font-bold leading-none tracking-[-0.024em]">
                 {formatPrice(template.priceUsd, "usd")}
               </span>
             </div>
 
-            <div className="pointer-events-none absolute inset-x-0 bottom-0 z-10 translate-y-2 bg-gradient-to-t from-black/68 via-black/18 to-transparent px-3 pb-3 pt-16 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
-              <p className="pr-16 text-[0.64rem] font-semibold uppercase tracking-[0.08em] text-white/78">
+            <div
+              className="pointer-events-none absolute inset-x-0 bottom-0 z-10 translate-y-2 px-3 pb-3 pt-16 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100"
+              style={{ background: caption.overlay }}
+            >
+              <p
+                className="pr-16 text-[0.64rem] font-semibold uppercase tracking-[0.08em]"
+                style={{ color: caption.mutedColor }}
+              >
                 {template.industry}
               </p>
             </div>
@@ -150,4 +160,29 @@ function useDesktopMotion() {
   }, []);
 
   return isDesktopMotion;
+}
+
+function getCaptionTone(background: string) {
+  const clean = background.replace("#", "");
+  const red = parseInt(clean.slice(0, 2), 16);
+  const green = parseInt(clean.slice(2, 4), 16);
+  const blue = parseInt(clean.slice(4, 6), 16);
+  const luminance = (0.299 * red + 0.587 * green + 0.114 * blue) / 255;
+  const isLight = luminance > 0.58;
+
+  if (isLight) {
+    return {
+      color: "#101010",
+      mutedColor: "rgba(16, 16, 16, 0.7)",
+      overlay: "linear-gradient(to top, rgba(255, 255, 255, 0.72), rgba(255, 255, 255, 0.18), transparent)",
+      shadow: "0 1px 18px rgba(255, 255, 255, 0.46)",
+    };
+  }
+
+  return {
+    color: "#FFFFFF",
+    mutedColor: "rgba(255, 255, 255, 0.78)",
+    overlay: "linear-gradient(to top, rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.18), transparent)",
+    shadow: "0 1px 18px rgba(0, 0, 0, 0.54)",
+  };
 }
